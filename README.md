@@ -2,8 +2,6 @@
 
 ### A budding Javascript/Typescript/Go developer.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jstreitb" alt="jstreitb" /></a> </p>
-
 - 🔭 I'm currently working on **a project called 'baa': A cozy TUI that herds your package managers. Unified updates for apt, pacman, snap & flatpak...**
 
 - 🌱 I'm currently learning **Javascript/Typescript/Go xDand promt prompt engineering**
