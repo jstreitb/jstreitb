@@ -9,6 +9,12 @@
 - 📫 How to reach me: [juliannoelstreitberger@gmail.com](mailto:juliannoelstreitberger@gmail.com)
 - ⚡ Fun fact: **I'm stuck in the frontrooms.**
 
+### 🌍 Domains I own
+
+- 🥼 [nanolab.site](https://nanolab.site) (inactive, if you need it, write me a mail!)
+- 🦊 [zevlo.app](https://zevlo.app) (inactive, if you need it, write me a mail!)
+- 🤖 [notabotly.com](https://notabotly.com) (inactive, if you need it, write me a mail!)
+  
 ---
 
 ### 🌐 Connect with me:
