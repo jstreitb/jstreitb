@@ -36,7 +36,7 @@
 <br/>
 
 <p align="left">
-  <img src="https://api?username=jstreitb&show_icons=true&theme=dark" alt="jstreitb GitHub stats" height="150" />
+  <img src="https://readme-one-bice.vercel.app/api?username=jstreitb&show_icons=true&theme=dark" alt="jstreitb GitHub stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://api/top-langs/?username=jstreitb&layout=compact&theme=dark" alt="Top Langs" height="150" />
+  <img src="https://readme-one-bice.vercel.app/api/top-langs/?username=jstreitb&layout=compact&theme=dark" alt="Top Langs" height="150" />
 </p>
